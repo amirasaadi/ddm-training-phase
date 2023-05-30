@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=virtualenv
 
 .idea/
+*.csv
 
 ### VirtualEnv ###
 # Virtualenv
